@@ -8,6 +8,4 @@
 
 ---
 
-所有文件均可在 [Releases](https://github.com/Gusiaaaaa/Gusiaaaaa.github.io/releases) 页面下载。
-
 > 所有文件禁二传二改
