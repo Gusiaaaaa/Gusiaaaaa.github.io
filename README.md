@@ -1,3 +1,5 @@
+### [🐧 BUGclicker桌宠](https://github.com/Gusiaaaaa/Gusiaaaaa.github.io/releases/tag/v1.0-BUGclicker)
+
 ### [🐾 PNGtuber 桌宠](https://github.com/Gusiaaaaa/Gusiaaaaa.github.io/releases/tag/v1.0-PNGtuber)
 
 ### [⌨️ 输入法](https://github.com/Gusiaaaaa/Gusiaaaaa.github.io/releases/tag/v1.0-ime)
